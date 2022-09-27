@@ -1,3 +1,4 @@
+
 import java.util.Scanner;
 
 public class PostfixTester {
@@ -5,7 +6,7 @@ public class PostfixTester {
         String expression, again;    
         Scanner in = new Scanner(System.in);
       
-        System.out.println("Postfix Evaluation – Team Member 1, Team Member 2, Team Member 3, ...");
+        System.out.println("Postfix Evaluation – Tiffany Kawamura");
         
         do {  
  			System.out.print("\nExpression: ");

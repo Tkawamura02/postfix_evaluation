@@ -1,3 +1,4 @@
+
 public class ArrayStack<E> implements Stack<E> {
 	private E[] S;
 	private int t;
